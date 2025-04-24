@@ -7,7 +7,7 @@ import Mileage from './Components/Mileage';
 
 function App() {
   return (
-    <Router>
+    <Router  basename="/cost_calculator">
       <Routes>
      
         <Route path="/" element={
