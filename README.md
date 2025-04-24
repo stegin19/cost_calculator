@@ -1,12 +1,16 @@
-# React + Vite
+Vehicle Cost Calculators (Fuel Cost, Drivable Distance, Mileage, and More)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This React-based web application allows users to calculate various vehicle-related metrics, including fuel cost, drivable distance, fuel efficiency, and cost per kilometer. Designed with a user-friendly interface, it helps users estimate vehicle expenses based on their inputs. The application features the following functionalities:
 
-Currently, two official plugins are available:
+Key Features:
+Fuel Cost Calculator: Calculate the total cost of fuel required for a given distance, based on vehicle mileage and fuel price.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Drivable Distance: Estimate how far your vehicle can travel with a specific amount of fuel, considering your car's mileage.
 
-## Expanding the ESLint configuration
+Fuel Needed: Determine the amount of fuel required to travel a given distance based on your vehicle's mileage.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Mileage (Fuel Efficiency): Calculate the vehicle's mileage based on the distance traveled and the fuel consumed during a trip.
+
+Cost Per Kilometer: Estimate the cost to drive 1 km based on your vehicle’s fuel price and mileage.
+
+visit: https://stegin19.github.io/cost_calculator/
